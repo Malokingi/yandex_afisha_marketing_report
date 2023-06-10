@@ -21,9 +21,9 @@ I have been told I've done beautifully in the Practicum course, and I've been, h
 Store the data on visits, orders, and expenses in variables. Optimize the data for analysis. Make sure each column contains the correct data type.
 
 **File paths:**
-- [ ] `/datasets/visits_log_us.csv`
-- [ ] `/datasets/orders_log_us.csv`
-- [ ] `/datasets/costs_us.csv`
+- [x] `/datasets/visits_log_us.csv`
+- [x] `/datasets/orders_log_us.csv`
+- [x] `/datasets/costs_us.csv`
 
 #### Step 2. Make reports and calculate metrics:
 
