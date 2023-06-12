@@ -28,10 +28,10 @@ Store the data on visits, orders, and expenses in variables. Optimize the data f
 #### Step 2. Make reports and calculate metrics:
 
 **Product:**
-- [ ] How many people use it every day, week, and month?
-- [ ] How many sessions are there per day? (One user might have more than one session.)
-- [ ] What is the length of each session?
-- [ ] What's the user retention rate?
+- [x] How many people use it every day, week, and month?
+- [x] How many sessions are there per day? (One user might have more than one session.)
+- [x] What is the length of each session?
+- [x] What's the user retention rate?
 
 **Sales:**
 - [ ] When do people start buying?
