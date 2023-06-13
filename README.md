@@ -34,11 +34,11 @@ Store the data on visits, orders, and expenses in variables. Optimize the data f
 - [x] What's the user retention rate?
 
 **Sales:**
-- [ ] When do people start buying?
+- [x] When do people start buying?
     - In KPI analysis, we're usually interested in knowing the time that elapses between registration and conversion — when the user becomes a customer. For example, if registration and the first purchase occur on the same day, the user might fall into category Conversion 0d. If the first purchase happens the next day, it will be Conversion 1d. I can use any approach that lets me compare the conversions of different cohorts, so that I can determine which cohort, or marketing channel, is most effective.
-- [ ] How many orders do they make during a given period of time?
-- [ ] What is the average purchase size?
-- [ ] How much money do they bring? (LTV)
+- [x] How many orders do they make during a given period of time?
+- [x] What is the average purchase size?
+- [x] How much money do they bring? (LTV)
 
 **Marketing:**
 - [ ] How much money was spent? Overall, per source and over time.
@@ -54,6 +54,6 @@ Store the data on visits, orders, and expenses in variables. Optimize the data f
 I will complete the task in Jupyter Notebook. I will enter the code in code cells and text explanations in markdown cells. I will apply formatting and headings.
 
 ## To Do:
-- [ ] Step 1: Data Preprocessing
+- [x] Step 1: Data Preprocessing
 - [ ] Step 2: Do Math and Make Graphs
 - [ ] Step 3: Advise
