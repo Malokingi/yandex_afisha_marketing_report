@@ -28,23 +28,23 @@ Store the data on visits, orders, and expenses in variables. Optimize the data f
 #### Step 2. Make reports and calculate metrics:
 
 **Product:**
-- [ ] How many people use it every day, week, and month?
-- [ ] How many sessions are there per day? (One user might have more than one session.)
-- [ ] What is the length of each session?
-- [ ] What's the user retention rate?
+- [x] How many people use it every day, week, and month?
+- [x] How many sessions are there per day? (One user might have more than one session.)
+- [x] What is the length of each session?
+- [x] What's the user retention rate?
 
 **Sales:**
-- [ ] When do people start buying?
+- [x] When do people start buying?
     - In KPI analysis, we're usually interested in knowing the time that elapses between registration and conversion — when the user becomes a customer. For example, if registration and the first purchase occur on the same day, the user might fall into category Conversion 0d. If the first purchase happens the next day, it will be Conversion 1d. I can use any approach that lets me compare the conversions of different cohorts, so that I can determine which cohort, or marketing channel, is most effective.
-- [ ] How many orders do they make during a given period of time?
-- [ ] What is the average purchase size?
-- [ ] How much money do they bring? (LTV)
+- [x] How many orders do they make during a given period of time?
+- [x] What is the average purchase size?
+- [x] How much money do they bring? (LTV)
 
 **Marketing:**
-- [ ] How much money was spent? Overall, per source and over time.
-- [ ] How much did customer acquisition from each of the sources cost?
-- [ ] How worthwhile were the investments? (ROI)
-- [ ] Plot graphs to display how these metrics differ for various devices and ad sources and how they change over time.
+- [x] How much money was spent? Overall, per source and over time.
+- [x] How much did customer acquisition from each of the sources cost?
+- [x] How worthwhile were the investments? (ROI)
+- [x] Plot graphs to display how these metrics differ for various devices and ad sources and how they change over time.
 
 #### Step 3. Write a conclusion: advise marketing experts how much money to invest and where.
 - [ ] What sources/platforms would I recommend?
@@ -54,6 +54,6 @@ Store the data on visits, orders, and expenses in variables. Optimize the data f
 I will complete the task in Jupyter Notebook. I will enter the code in code cells and text explanations in markdown cells. I will apply formatting and headings.
 
 ## To Do:
-- [ ] Step 1: Data Preprocessing
-- [ ] Step 2: Do Math and Make Graphs
+- [x] Step 1: Data Preprocessing
+- [x] Step 2: Do Math and Make Graphs
 - [ ] Step 3: Advise
