@@ -41,10 +41,10 @@ Store the data on visits, orders, and expenses in variables. Optimize the data f
 - [x] How much money do they bring? (LTV)
 
 **Marketing:**
-- [ ] How much money was spent? Overall, per source and over time.
-- [ ] How much did customer acquisition from each of the sources cost?
-- [ ] How worthwhile were the investments? (ROI)
-- [ ] Plot graphs to display how these metrics differ for various devices and ad sources and how they change over time.
+- [x] How much money was spent? Overall, per source and over time.
+- [x] How much did customer acquisition from each of the sources cost?
+- [x] How worthwhile were the investments? (ROI)
+- [x] Plot graphs to display how these metrics differ for various devices and ad sources and how they change over time.
 
 #### Step 3. Write a conclusion: advise marketing experts how much money to invest and where.
 - [ ] What sources/platforms would I recommend?
@@ -55,5 +55,5 @@ I will complete the task in Jupyter Notebook. I will enter the code in code cell
 
 ## To Do:
 - [x] Step 1: Data Preprocessing
-- [ ] Step 2: Do Math and Make Graphs
+- [x] Step 2: Do Math and Make Graphs
 - [ ] Step 3: Advise
