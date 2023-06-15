@@ -47,7 +47,7 @@ Store the data on visits, orders, and expenses in variables. Optimize the data f
 - [x] Plot graphs to display how these metrics differ for various devices and ad sources and how they change over time.
 
 #### Step 3. Write a conclusion: advise marketing experts how much money to invest and where.
-- [ ] What sources/platforms would I recommend?
+- [x] What sources/platforms would I recommend?
     - I will back up my choice with the metrics I focused on. I will explain why I chose those metrics and share the conclusions I drew after finding the metric values.
 
 **Format:**
@@ -56,4 +56,4 @@ I will complete the task in Jupyter Notebook. I will enter the code in code cell
 ## To Do:
 - [x] Step 1: Data Preprocessing
 - [x] Step 2: Do Math and Make Graphs
-- [ ] Step 3: Advise
+- [x] Step 3: Advise
